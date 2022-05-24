@@ -14,4 +14,4 @@ CS undergraduate
 
 - Python, Mathematica, C++
 
-- Kubuntu 20, zsh, VS Code
+- Kubuntu 20, Zsh, VS Code
