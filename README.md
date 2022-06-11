@@ -1,3 +1,5 @@
+
+
 <a href="#gh-light-mode-only">
 <img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=GWDx&show_icons=true&custom_title=GitHub Stats" />
 <img align="right" alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=GWDx&langs_count=5" />
@@ -14,4 +16,4 @@ CS undergraduate
 
 - Python, Mathematica, C++
 
-- Kubuntu 20, Zsh, VS Code
+- Debian, Zsh, VS Code
